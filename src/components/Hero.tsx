@@ -95,7 +95,7 @@ export default function Hero() {
             <span className="text-black/60">instalaciones</span>
           </div>
           <div>
-            <span className="block text-2xl font-bold display">10 anos</span>
+            <span className="block text-2xl font-bold display">10 años</span>
             <span className="text-black/60">garantia bateria</span>
           </div>
           <div>
